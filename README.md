@@ -23,7 +23,7 @@ Code released under the GNU General Public License.
 
 ## Contributors
 
-Gregory Cavanagh  <gregory_cavanagh@hms.harvard.edu>  
+Gregory Cavanagh gregory_cavanagh@hms.harvard.edu  
 [Research Computing Group](http://rc.hms.harvard.edu), Harvard Medical School  
 
 
