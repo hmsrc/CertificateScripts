@@ -1,4 +1,4 @@
-x#HMS SSL Scripts
+#HMS SSL Scripts
 
 ## Description
 Basic scripts to request, install, and monitor ssl certificates in our hosting environment.
@@ -13,7 +13,7 @@ Code released under the GNU General Public License.
 
 ## Configure
 * edit `certs.configure` 
-* edit `exipred_certificates.txt` adding site directories to ignore, 1 per line
+* edit `expired_certificates.txt` adding site directories to ignore, 1 per line
 
 ## Usage
 * ./generate-cert-request.sh -s SITE
@@ -23,8 +23,7 @@ Code released under the GNU General Public License.
 
 ## Contributors
 
- Gregory Cavanagh  <gregory_cavanagh@hms.harvard.edu> 
- [Research Computing Group](http://rc.hms.harvard.edu), Harvard Medical School  
+Gregory Cavanagh  <gregory_cavanagh@hms.harvard.edu>  
+[Research Computing Group](http://rc.hms.harvard.edu), Harvard Medical School  
 
-Enjoy
 
