@@ -1,0 +1,2 @@
+# check ssl certificate expiration dates
+0 0 * * 0 root /edit/path/check-certs.sh
